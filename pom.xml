@@ -58,6 +58,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>spring-boot-async-calls</finalName>
     </build>
 
 </project>
